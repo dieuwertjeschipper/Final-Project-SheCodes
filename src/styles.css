@@ -1,0 +1,59 @@
+body {
+  color: darkcyan;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  background: linear-gradient(
+    rgba(255, 255, 255, 1) 0%,
+    rgba(255, 255, 255, 1) 50%,
+    rgba(205, 253, 247, 1) 100%
+  );
+}
+.container {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+h1,
+h3 {
+  color: darkcyan;
+  font-size: 50px;
+  text-align: center;
+}
+h2 {
+  font-size: 15px;
+  line-height: 1.5 px;
+  text-align: center;
+}
+i {
+  color: bisque;
+  font-size: 30px;
+  text-align: center;
+}
+p.forecast {
+  font-size: 22px;
+  text-align: center;
+  font-weight: bold;
+}
+.card {
+  border: 3px solid darkcyan;
+  border-radius: 30px;
+}
+.col-3 {
+  text-align: center;
+  display: block;
+  margin: auto;
+  width: 100%;
+  padding-top: 20px;
+}
+.main {
+  color: bisque;
+  font-size: 100px;
+  margin: 20px 40px;
+}
+.weathericon {
+  font-weight: bold;
+}
+
+.information {
+  color: darkcyan;
+  font-size: 12px;
+}
